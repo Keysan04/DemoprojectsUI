@@ -76,7 +76,7 @@ header {
 }
 
 /* .line {
-  } */
+    } */
 
 .line::before {
   content: "";
